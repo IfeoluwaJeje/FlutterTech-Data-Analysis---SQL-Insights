@@ -1,6 +1,7 @@
 # FlutterTech-Data-Analysis---SQL-Insights
 
 **Overview**
+
 This repository houses a collection of SQL scripts designed for comprehensive data analysis, focusing on sales transactions, employee performance, and customer behavior within a simulated business environment, potentially inspired by a platform like FlutterWave. These scripts are intended to help extract valuable insights from relational data.
 
 **Database Schema**
