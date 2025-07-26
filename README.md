@@ -1,9 +1,9 @@
 # FlutterTech-Data-Analysis---SQL-Insights
 
-Overview
+#Overview
 This repository houses a collection of SQL scripts designed for comprehensive data analysis, focusing on sales transactions, employee performance, and customer behavior within a simulated business environment, potentially inspired by a platform like FlutterWave. These scripts are intended to help extract valuable insights from relational data.
 
-Database Schema
+#Database Schema
 The analysis is based on three primary tables:
 
 EMPLOYEES: Stores information about employees, including their contact details, hire date, salary, and manager.
@@ -12,7 +12,7 @@ CUSTOMERS: Contains customer details such as name, contact information, city, st
 
 TRANSACTIONS: Records sales transactions, linking to employees and customers, and including details like product name, quantity, unit price, total amount, and commission rate.
 
-Key Analyses Performed
+#Key Analyses Performed
 The SQL scripts in this repository perform various analytical queries, including:
 
 Sales Overview: Retrieving transaction details, including employee and customer names, and sale dates.
@@ -33,7 +33,7 @@ Sales Department Performance: Detailed analysis of sales department employees, i
 
 Commission Rate Updates: Demonstrating how to update commission rates based on employee sales performance.
 
-How to Use
+#How to Use
 To run these SQL scripts and perform the analysis:
 
 Database Setup:
@@ -54,7 +54,7 @@ Run Analysis Queries:
 
 Execute the SELECT and UPDATE statements to perform the desired data analysis and manipulation.
 
-Example Queries (from the provided SQL file)
+#Example Queries (from the provided SQL file)
 -- Create Database
 create database FlutterTech_Analysis;
 
