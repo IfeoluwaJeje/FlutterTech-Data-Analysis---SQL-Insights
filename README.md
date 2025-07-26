@@ -176,10 +176,10 @@ HAVING SUM(total_amount) > 400000
 );"
 ```
 
-##Contributing
+## Contributing
 
 Feel free to fork this repository, suggest improvements, or add more analytical queries.
 
-##License
+## License
 
 (Consider adding a license here, e.g., MIT, Apache 2.0, etc.)
