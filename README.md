@@ -1,4 +1,4 @@
-# FlutterWave Data Analysis - SQL Insights
+# FlutterTech Data Analysis - SQL Insights
 
 ## Overview
 This repository houses a collection of SQL scripts designed for comprehensive data analysis, focusing on sales transactions, employee performance, and customer behavior within a simulated business environment, potentially inspired by a platform like FlutterTech. These scripts are intended to help extract valuable insights from relational data.
@@ -174,3 +174,9 @@ FROM transactions
 GROUP BY employee_id
 HAVING SUM(total_amount) > 400000
 );
+
+Contributing
+Feel free to fork this repository, suggest improvements, or add more analytical queries.
+
+License
+(Consider adding a license here, e.g., MIT, Apache 2.0, etc.)
