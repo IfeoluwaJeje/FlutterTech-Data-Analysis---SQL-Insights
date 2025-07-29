@@ -1,0 +1,13 @@
+transaction_id,employee_id,customer_id,sale_date,product_name,quantity,unit_price,total_amount,commission_rate
+1001,2,101,2024-01-15,Software License,5,50000,250000,5
+1002,3,102,2024-01-20,Consulting Service,1,150000,150000,7.5
+1003,2,103,2024-02-10,Training Package,3,75000,225000,6
+1004,5,104,2024-02-15,Software License,2,50000,100000,5
+1005,7,105,2024-03-05,Maintenance Contract,1,120000,120000,8
+1006,2,106,2024-03-12,Software License,1,50000,50000,5
+1007,3,107,2024-03-20,Consulting Service,2,150000,300000,7.5
+1008,5,108,2024-04-01,Training Package,1,75000,75000,6
+1009,7,101,2024-04-15,Maintenance Contract,2,120000,240000,8
+1010,2,102,2024-05-10,Software License,3,50000,150000,5
+1011,3,103,2024-05-25,Consulting Service,1,150000,150000,7.5
+1012,5,104,2024-06-05,Training Package,2,75000,150000,6

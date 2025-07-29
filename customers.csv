@@ -1,0 +1,9 @@
+customer_id,customer_name,email,phone,city,state,registration_date,customer_type
+101,ABC Company Ltd,info@abccompany.com,8098765432,Lagos,Lagos,2023-01-10,Corporate
+102,XYZ Enterprises,contact@xyzent.com,8098765433,Abuja,FCT,2023-02-05,Corporate
+103,Tech Solutions Inc,hello@techsol.com,8098765434,Port Harcourt,Rivers,2023-01-20,Corporate
+104,Small Business Co,admin@smallbiz.com,8098765435,Kano,Kano,2023-03-15,SME
+105,Innovation Hub,info@innovhub.com,8098765436,Ibadan,Oyo,2023-02-28,SME
+106,Digital Agency,contact@digitalag.com,8098765437,Lagos,Lagos,2023-04-10,SME
+107,Enterprise Solutions,sales@entsol.com,8098765438,Abuja,FCT,2023-03-25,Corporate
+108,StartUp Nigeria,team@startup.ng,8098765439,Lagos,Lagos,2023-05-15,StartUp
